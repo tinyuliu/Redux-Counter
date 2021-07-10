@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tinyuliu/Redux-ReduxToolKit-Demo/static/css/main.63f145ef.chunk.css",
+    "main.js": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/main.c98b2234.chunk.js",
+    "main.js.map": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/main.c98b2234.chunk.js.map",
+    "runtime-main.js": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/runtime-main.573f4df9.js",
+    "runtime-main.js.map": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/runtime-main.573f4df9.js.map",
+    "static/js/2.7d4df43e.chunk.js": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/2.7d4df43e.chunk.js",
+    "static/js/2.7d4df43e.chunk.js.map": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/2.7d4df43e.chunk.js.map",
+    "index.html": "/tinyuliu/Redux-ReduxToolKit-Demo/index.html",
+    "static/css/main.63f145ef.chunk.css.map": "/tinyuliu/Redux-ReduxToolKit-Demo/static/css/main.63f145ef.chunk.css.map",
+    "static/js/2.7d4df43e.chunk.js.LICENSE.txt": "/tinyuliu/Redux-ReduxToolKit-Demo/static/js/2.7d4df43e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.573f4df9.js",
+    "static/js/2.7d4df43e.chunk.js",
+    "static/css/main.63f145ef.chunk.css",
+    "static/js/main.c98b2234.chunk.js"
+  ]
+}
